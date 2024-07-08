@@ -1,0 +1,53 @@
+[{ 
+        "_id": 1,
+        "upvotes": 3,
+        "downvotes": 2,
+        "noofanswers": 2,
+        "questiontitle": "What is a function?",
+        "questionbody": "It meant to be",
+        "questiontags": ["java", "node js", "react js", "mongo db", "express js"],
+        "userposted": "mano",
+        "userId": 1,
+        "askedon": "jan 1",
+        "answer": [{
+            "answerbody": "Answer",
+            "useranswered": "Kumar",
+            "answeredon": "jan 2",
+            "userId": 2
+        }]
+    },{ 
+        "_id": 2,
+        "upvotes": 3,
+        "downvotes": 2,
+        "noofanswers": 0,
+        "questiontitle": "What is a function?",
+        "questionbody": "It meant to be",
+        "questiontags": ["javascript", "R", "python"],
+        "userposted": "mano",
+        "askedon": "jan 1",
+        "userId": 1,
+        "answer": [{
+            "answerbody": "Answer",
+            "useranswered": "Kumar",
+            "answeredon": "jan 2",
+            "userId": 2
+        }]
+    },{ 
+        "_id": 3,
+        "upvotes": 3,
+        "downvotes": 2,
+        "noofanswers": 0,
+        "questiontitle": "What is a function?",
+        "questionbody": "It meant to be",
+        "questiontags": ["javascript", "R", "python"],
+        "userposted": "mano",
+        "askedon": "jan 1",
+        "userId": 1,
+        "answer": [{
+            "answerbody": "Answer",
+            "useranswered": "Kumar",
+            "answeredon": "jan 2",
+            "userId": 2
+        }]
+    }]
+
